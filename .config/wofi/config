@@ -1,0 +1,11 @@
+style=/home/dustycode/.config/wofi/style.css
+colors=/home/dustycode/.config/wofi/nord.colors
+show=drun
+prompt=Search for apps
+insensitive=true
+gtk_dark=false
+allow_images=true
+image_size=24
+halign=fill
+width=30%
+height=30%
